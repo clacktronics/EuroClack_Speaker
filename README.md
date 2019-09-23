@@ -12,4 +12,4 @@ As a kit it is designed to be simple and fast to assemble, so ideal for beginner
 * Current draw idle: 5mA(+12V) 0mA(-12V) 0mA(5V)
 * Current draw Active: 80mA(+12V) 0mA(-12V) 0mA(5V) (driven with 10Vpp square wave at 500kHz)
 
-More information at [clacktronics.co.uk/euroclack](clacktronics.co.uk/euroclack)
+More information at [clacktronics.co.uk/euroclack](http://clacktronics.co.uk/euroclack)
